@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638607257 source:c:\users\dina alaa\desktop\iti\datastrctures&algorithms\lab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
